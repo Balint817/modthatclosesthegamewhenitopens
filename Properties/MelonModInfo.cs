@@ -11,7 +11,7 @@ namespace modthatclosesthegamewhenitopens.Properties
 
         public const string Author = "PBalint817";
 
-        public const string Version = "1.0.0";
+        public const string Version = "1.1.0";
 
         public const string DownloadLink = "";
 
